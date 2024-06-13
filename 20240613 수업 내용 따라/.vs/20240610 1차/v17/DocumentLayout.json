@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\System\\Code\\GraphicDev.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|solutionrelative:Engine\\System\\Code\\GraphicDev.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Code\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Code\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Include\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Header\\MainApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Header\\MainApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Include\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Include\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Include\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Export_System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|solutionrelative:Engine\\Header\\Export_System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\GraphicDev.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|solutionrelative:Engine\\Header\\GraphicDev.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4204-8FB5-424D-9E38-E8E9863373D7}|Client\\Include\\Client.vcxproj|solutionrelative:Client\\Include\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591B1871-1076-471E-83AF-1246105FF4C8}|02. Base{591B1871-1076-471E-83AF-1246105FF4C8}|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Base\\Base.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{591B1871-1076-471E-83AF-1246105FF4C8}|02. Base{591B1871-1076-471E-83AF-1246105FF4C8}|solutionrelative:Base\\Base.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591B1871-1076-471E-83AF-1246105FF4C8}|02. Base{591B1871-1076-471E-83AF-1246105FF4C8}|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Base\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{591B1871-1076-471E-83AF-1246105FF4C8}|02. Base{591B1871-1076-471E-83AF-1246105FF4C8}|solutionrelative:Base\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9980D9-90F8-4C05-BE48-73361CCD1AE5}|02. Header{4B9980D9-90F8-4C05-BE48-73361CCD1AE5}|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Engine_Macro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B9980D9-90F8-4C05-BE48-73361CCD1AE5}|02. Header{4B9980D9-90F8-4C05-BE48-73361CCD1AE5}|solutionrelative:Engine\\Header\\Engine_Macro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\ENGINE\\HEADER\\EXPORT_SYSTEM.INL||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC499CE-4D79-4C65-82A9-932A73DC186F}|Engine\\System\\Include\\System.vcxproj|solutionrelative:ENGINE\\HEADER\\EXPORT_SYSTEM.INL||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Client.h",
+              "RelativeDocumentMoniker": "Client\\Include\\Client.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Client.h",
+              "RelativeToolTip": "Client\\Include\\Client.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:17:32.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainApp.cpp",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Code\\MainApp.cpp",
+              "RelativeDocumentMoniker": "Client\\Code\\MainApp.cpp",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Code\\MainApp.cpp",
+              "RelativeToolTip": "Client\\Code\\MainApp.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:34:21.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainApp.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Header\\MainApp.h",
+              "RelativeDocumentMoniker": "Client\\Header\\MainApp.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Header\\MainApp.h",
+              "RelativeToolTip": "Client\\Header\\MainApp.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:34:21.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Export_System.inl",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Export_System.inl",
+              "RelativeDocumentMoniker": "Engine\\Header\\Export_System.inl",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Export_System.inl",
+              "RelativeToolTip": "Engine\\Header\\Export_System.inl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-12T08:04:00.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphicDev.cpp",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\System\\Code\\GraphicDev.cpp",
+              "RelativeDocumentMoniker": "Engine\\System\\Code\\GraphicDev.cpp",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\System\\Code\\GraphicDev.cpp",
+              "RelativeToolTip": "Engine\\System\\Code\\GraphicDev.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T07:01:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Client.cpp",
+              "RelativeDocumentMoniker": "Client\\Include\\Client.cpp",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Client.cpp",
+              "RelativeToolTip": "Client\\Include\\Client.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:18:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\framework.h",
+              "RelativeDocumentMoniker": "Client\\Include\\framework.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\framework.h",
+              "RelativeToolTip": "Client\\Include\\framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:17:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Engine_Macro.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Engine_Macro.h",
+              "RelativeDocumentMoniker": "Engine\\Header\\Engine_Macro.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Engine_Macro.h",
+              "RelativeToolTip": "Engine\\Header\\Engine_Macro.h",
+              "ViewState": "AQIAAB0AAAAAAAAAAAApwDEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T08:08:34.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Resource.h",
+              "RelativeDocumentMoniker": "Client\\Include\\Resource.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\Resource.h",
+              "RelativeToolTip": "Client\\Include\\Resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:17:34.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphicDev.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\GraphicDev.h",
+              "RelativeDocumentMoniker": "Engine\\Header\\GraphicDev.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\GraphicDev.h",
+              "RelativeToolTip": "Engine\\Header\\GraphicDev.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T06:59:56.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Export_System.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Export_System.h",
+              "RelativeDocumentMoniker": "Engine\\Header\\Export_System.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Engine\\Header\\Export_System.h",
+              "RelativeToolTip": "Engine\\Header\\Export_System.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T08:04:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\targetver.h",
+              "RelativeDocumentMoniker": "Client\\Include\\targetver.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Client\\Include\\targetver.h",
+              "RelativeToolTip": "Client\\Include\\targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:17:35.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Base.h",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Base\\Base.h",
+              "RelativeDocumentMoniker": "Base\\Base.h",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Base\\Base.h",
+              "RelativeToolTip": "Base\\Base.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T05:48:31.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Base.inl",
+              "DocumentMoniker": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Base\\Base.inl",
+              "RelativeDocumentMoniker": "Base\\Base.inl",
+              "ToolTip": "C:\\Users\\gahyu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\jusin\\5\uAC1C\uC6D4\uCC28 \uC219\uC81C\\20240613 \uC218\uC5C5 \uB0B4\uC6A9 \uB530\uB77C\\Base\\Base.inl",
+              "RelativeToolTip": "Base\\Base.inl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-10T06:34:23.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿  Client.cpp
+Client.obj : error LNK2019: __imp_LoadStringWwWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_GetMessageWwWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_TranslateMessagewWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_DispatchMessageWwWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_DefWindowProcW"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_PostQuitMessage"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_RegisterClassExW"unsigned short __cdecl MyRegisterClass(struct HINSTANCE__ *)" (?MyRegisterClass@@YAGPEAUHINSTANCE__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_CreateWindowExW"int __cdecl InitInstance(struct HINSTANCE__ *,int)" (?InitInstance@@YAHPEAUHINSTANCE__@@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_DestroyWindow"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_ShowWindow"int __cdecl InitInstance(struct HINSTANCE__ *,int)" (?InitInstance@@YAHPEAUHINSTANCE__@@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_DialogBoxParamW"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_EndDialog"__int64 __cdecl About(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?About@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_LoadAcceleratorsWwWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_TranslateAcceleratorWwWinMain 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_UpdateWindow"int __cdecl InitInstance(struct HINSTANCE__ *,int)" (?InitInstance@@YAHPEAUHINSTANCE__@@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_BeginPaint"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_EndPaint"__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_LoadCursorW"unsigned short __cdecl MyRegisterClass(struct HINSTANCE__ *)" (?MyRegisterClass@@YAGPEAUHINSTANCE__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Client.obj : error LNK2019: __imp_LoadIconW"unsigned short __cdecl MyRegisterClass(struct HINSTANCE__ *)" (?MyRegisterClass@@YAGPEAUHINSTANCE__@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\lib\x86\d3d9.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\lib\x86\d3dx9.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\lib\x86\dxguid.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+..\Bin\Client.exe : fatal error LNK1120: 19개의 확인할 수 없는 외부 참조입니다.

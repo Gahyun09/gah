@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. GraphicDev">
+      <UniqueIdentifier>{43dba6ef-1bd8-4fd9-8ba5-103529d8ba67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. TimerMgr">
+      <UniqueIdentifier>{505e3568-17b5-4f25-b5b1-d7a6efdf75c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Export_System">
+      <UniqueIdentifier>{57f6fdb2-abeb-4ceb-b461-911818033d46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. TimerMgr\Timer">
+      <UniqueIdentifier>{ca571d7b-c0db-4006-8f16-e51c15a7e32c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Code\GraphicDev.cpp">
+      <Filter>00. GraphicDev</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Timer.cpp">
+      <Filter>01. TimerMgr\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\TimerMgr.cpp">
+      <Filter>01. TimerMgr</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Header\GraphicDev.h">
+      <Filter>00. GraphicDev</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Header\Export_System.h">
+      <Filter>99. Export_System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Header\Timer.h">
+      <Filter>01. TimerMgr\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Header\TimerMgr.h">
+      <Filter>01. TimerMgr</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Header\Export_System.inl">
+      <Filter>99. Export_System</Filter>
+    </None>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
